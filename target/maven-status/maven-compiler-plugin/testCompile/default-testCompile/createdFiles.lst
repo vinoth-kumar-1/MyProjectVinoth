@@ -1,0 +1,4 @@
+enginecomponent\Base.class
+pagecomponent\HomePages.class
+testcomponent\RegTest.class
+testcomponent\MavenTest.class
